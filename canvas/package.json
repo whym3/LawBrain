@@ -32,9 +32,9 @@
     "typescript": "^5"
   },
   "resolutions": {
-    "@langchain/core": "^0.3.38"
+    "@langchain/core": "0.3.66"
   },
   "dependencies": {
-    "@langchain/core": "^0.3.66"
+    "@langchain/core": "0.3.66"
   }
 }
