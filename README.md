@@ -2,7 +2,7 @@
 
 An AI-powered legal assistant platform designed specifically for lawyers and legal professionals. Law Brain combines the power of large language models with specialized legal tools to streamline legal work, document drafting, and case analysis.
 
-#website -> www.thelawbrain.com
+**website** -> www.thelawbrain.com  (Still in Progress)
 
 ## ChatUI
 ![Image](https://github.com/user-attachments/assets/27011a96-6471-4cee-b098-073132511f3f)
